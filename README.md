@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts annual health insurance premiums based on an applicant's personal, health, and financial profile.
 
-**Live Demo → [ml-health-insurance-predictstreamlit.app](https://ml-health-insurance-predictstreamlit.app)**
+**Live Demo → [ml-health-insurance-predictstreamlit.app](https://ml-health-insurance-predict.streamlit.app)**
 
 ---
 
